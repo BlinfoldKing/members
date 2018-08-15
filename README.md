@@ -32,3 +32,25 @@ IF 2016. COMTRAN 1st generation.
 | SPOJ          | epicurean | 0              |
 | CodeSignal    | epicurean | 14             |
 
+#### Ganesha Danu Enastika
+
+IF 2017. COMTRAN 1st generation.
+
+**CodeSignal Coding Score**: 639
+
+###### Rated Online Judge
+
+| Online Judge | Username  | Latest Rating |
+|--------------|-----------|---------------|
+| HackerRank   | blinfoldking | 1599.55       |
+| Codeforces   | GaneshaDanu  | -             |
+| CodeChef     | blinfoldking | -             |
+| TLX          | Technomancer | -             |
+
+###### Other Online Judge
+
+| Online Judge  | Username  | Problem Solved |
+|---------------|-----------|----------------|
+| SPOJ          | blinfoldking | 1              |
+| CodeSignal    | blinfoldking | 119            |
+
